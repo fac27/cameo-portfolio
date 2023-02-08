@@ -1,7 +1,9 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
 ![screenshot_accessibility][semantic_html]
+The above screenshot shows a small part of our project website where we used semantic HTML. We also edited html so that cards could be tabbed through and that all images had alt text and captions where appropriate.
 ## 2. Ensure a web page is readable for screen readers
-
+![screenshot_screenreader](screen_reader.png)
+My partner on the project did a great job making sure that screenreaders could get through the site's menu and navigate through the page. We had some elements that would appear/disappear on interaction. We avoided using 'display none' resorting to using opacity and hover so that this could still be picked up by users. 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 
 ## 4. Use various tools to check that our website meets accessibility criteria
