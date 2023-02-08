@@ -1,5 +1,5 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
-![screenshot_accessibility][semantic_html]
+![screenshot_accessibility](semanticHTML.png)
 <br>
 The above screenshot shows a small part of our project website where we used semantic HTML. We also edited html so that cards could be tabbed through and that all images had alt text and captions where appropriate.
 ## 2. Ensure a web page is readable for screen readers
@@ -8,6 +8,7 @@ The above screenshot shows a small part of our project website where we used sem
 My partner on the project did a great job making sure that screenreaders could get through the site's menu and navigate through the page. We had some elements that would appear/disappear on interaction. We avoided using 'display none' resorting to using opacity and hover so that this could still be picked up by users. 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
 ![screenshot_colourContrast](colour_contrast.png)
+<br>
 We used bright colours and had an image which made it difficult to get the right contrast so that people could read the hero section comfortably. We used lighthouse to test for accessibility to ensure it was up to standard. 
 
 ## 4. Use various tools to check that our website meets accessibility criteria
@@ -32,6 +33,7 @@ Both of us were used to using flexbox and so using grid felt like more of a stre
 
 ## 11. Use the appropriate input types in HTML forms for gathering different types of information
 ![screenshot_forms](forms.png)
+<br>
 We use appropriate form inputs and required fields to nudge users to use the correct formats. 
 We also created an alert to notify the user that they had infact submited the form. 
 At the end of the project, we also added in a feature to save the contact information to local storage.
