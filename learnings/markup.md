@@ -1,5 +1,5 @@
 ## 1. Structure a site using semantic HTML to aid accessibility
-
+![screenshot_accessibility][semantic_html]
 ## 2. Ensure a web page is readable for screen readers
 
 ## 3. Ensure our UI has sufficient colour contrast so that everyone can perceive it comfortably
@@ -19,3 +19,6 @@
 ## 10. Ensure our Git commit history tells a coherent story
 
 ## 11. Use the appropriate input types in HTML forms for gathering different types of information
+
+
+[semantic_html]: semanticHTML.png
