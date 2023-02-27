@@ -1,7 +1,12 @@
 ## 1. Write code that executes asynchronously
-![async_code](async_code.png)
+For the HTTP project, we were tasked with learning how to use two APIs using fetch and write asynchronous code. 
+<br>
+The below screenshot shows a function that gets a list of breeds from a dog API that we later then use to match with github user names using Github's API.
+![async_code](Screenshot%202023-02-27%20at%2019.42.05.png)
 
 ## 2. Use callbacks to access values that aren’t available synchronously
+![async_code](Screenshot%202023-02-27%20at%2019.39.24.png)
+
 
 ## 3. Use promises to access values that aren’t available synchronously
 
