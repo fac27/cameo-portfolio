@@ -31,3 +31,21 @@ test("Submitting a new task adds it to the list", () => {
 ## 6. Use scope to control what variables are accessible inside functions and blocks
 
 ## 7. Use CSS grid to make layouts that adapt to the viewport size
+```CSS
+@media screen and (min-width: 450px) {
+  .two-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 10px;
+  }
+  #todo-list {
+    grid-column-start: 1;
+    grid-column-end: 2;
+  }
+  #completes {
+    grid-column-start: 2;
+    grid-column-end: 3;
+  }
+}
+```
